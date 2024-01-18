@@ -1,12 +1,5 @@
-import MainLayout from "../../layouts/main";
-
-
 const Home = () => {
-  return (
-   <MainLayout>
-    Home
-   </MainLayout>
-  );
-}
+  return <div>Home </div>;
+};
 
 export default Home;
