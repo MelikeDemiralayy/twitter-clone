@@ -4,7 +4,7 @@ const Logo = () => {
     <div className="py-0.5">
       <Link
         to="/"
-        className="text-[color:var(--color-base)] w-[3.25rem] h-[3.25rem] rounded-full flex items-center justify-center hover:bg-[color:var(--background-third)] transition-colors"
+        className="text-[#FFFFFF] w-[3.25rem] h-[3.25rem] rounded-full flex items-center justify-center hover:bg-[#eff3f41a] transition-colors"
       >
         <svg viewBox="0 0 24 24" className="h-[1.875rem]">
           <path
